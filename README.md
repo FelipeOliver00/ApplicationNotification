@@ -1,2 +1,3 @@
 # ApplicationNotification
-Using mobile notification
+Using mobile notification 
+minSdkVersion 16
