@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659447744496",
+    "project_id": "myfirstproject-8dd5f",
+    "storage_bucket": "myfirstproject-8dd5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659447744496:android:9ad689b8387eb73113bf35",
+        "android_client_info": {
+          "package_name": "com.lipe.applicationnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659447744496-dkm5jl4okrtn7db28tc27avvus1nk7ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDrZc4wj3H5oUW3_DOmgrPlo1iKYK85yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659447744496-dkm5jl4okrtn7db28tc27avvus1nk7ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
